@@ -1,0 +1,47 @@
+{
+  "students" : [ {
+    "number" : 101,
+    "name" : "vijay",
+    "home" : {
+      "street" : "7942 N MacArthur Blvd",
+      "city" : "Irving",
+      "zipcode" : 75063
+    },
+
+    "communication" : {
+      "street" : "Las Collinous",
+      "city" : "Irving",
+      "zipcode" : 75063
+    },
+
+
+    "marks" :[ {
+      "subject" : "DBMS",
+      "marks" : 78,
+      "maxMarks" : 100
+    },{
+    "subject" : "APL",
+    "marks" : 79,
+    "maxMarks" : 100
+  },{
+      "subject" : "JAVA",
+      "marks" : 85,
+      "maxMarks" : 100
+    }]
+  },
+
+  /*  {
+    "number" : 102,
+    "name" : "vishnu",
+    "home" : {
+      "street" : null,
+      "city" : null,
+      "zipcode" : 0
+    },
+    "marks" : {
+      "subject" : null,
+      "marks" : 0,
+      "maxMarks" : 0
+    }
+  }*/ ]
+}

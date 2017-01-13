@@ -1,0 +1,29 @@
+{
+  "students" : [ {
+    "number" : 101,
+    "name" : "vijay",
+    "home" : {
+      "street" : null,
+      "city" : null,
+      "zipcode" : 0
+    },
+    "marks" : {
+      "subject" : null,
+      "marks" : 0,
+      "maxMarks" : 0
+    }
+  }, {
+    "number" : 102,
+    "name" : "vishnu",
+    "home" : {
+      "street" : null,
+      "city" : null,
+      "zipcode" : 0
+    },
+    "marks" : {
+      "subject" : null,
+      "marks" : 0,
+      "maxMarks" : 0
+    }
+  } ]
+}
