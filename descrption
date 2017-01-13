@@ -1,0 +1,13 @@
+1. Design XML Schema as follows.
+ a. Student with student information
+ b. Address with address information.
+      Note: 1. student can have one or two addresses
+      Note: 2. Address can have AddressType (HOME, COMMUNICATION)
+ c. Marks (Subject, marks, maxMarks)
+       Student can have more than one subject marks.
+
+2. Create XML with the above structure.
+
+3. Create Java types for the above classes
+
+4. Create java API to marshal and un-marshall the Student information using JAXB API.
